@@ -1,2 +1,3 @@
 # testgit
-this is for testing git
+Case Study For Java SpringBoot.
+
